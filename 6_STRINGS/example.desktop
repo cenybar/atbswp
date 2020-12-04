@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name = example.py
+Exec=gnome-terminal -- /home/santi/Desktop/atbswp/6_STRINGS/example.sh
+Type=Application
+Categories=GTK;GNOME;Utility;
